@@ -1,0 +1,16 @@
+Special atoms:
+    .       any character
+    \d      any digit
+    \s      any whitespace
+    \w      any word char
+
+Grouping:
+    (...)   group expressions
+
+Character classes:
+    (...)   match one char from a set
+
+Quantifiers:
+    *       zero or more
+    +       one or more
+    ?       zero or one
