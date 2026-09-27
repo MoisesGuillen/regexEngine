@@ -43,7 +43,7 @@ auto tokens = lexer.tokenize();
 ## Build
 
 ```bash
-g++ -std=c++17 main.cpp -o regex_engine
+g++ -std=c++26 main.cpp -o regex_engine
 ./regex_engine
 ```
 
@@ -51,4 +51,4 @@ g++ -std=c++17 main.cpp -o regex_engine
 
 Moises Guillen
 
-## Date: September 26, 2026
+## Date: September 27, 2026
